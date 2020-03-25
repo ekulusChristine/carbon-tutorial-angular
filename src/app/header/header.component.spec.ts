@@ -1,5 +1,6 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
+import { NgModule } from '@angular/core';
 import { HeaderComponent } from './header.component';
 import { UIShellModule } from 'carbon-components-angular';
 
